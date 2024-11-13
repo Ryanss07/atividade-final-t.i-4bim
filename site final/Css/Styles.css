@@ -1,0 +1,21 @@
+ /* Principais Itens css: navbar,footer */
+/*Nav Bar*/
+ nav{
+    background-color: rgb(136, 130, 130);
+ }
+div.container-fluid a {
+    -webkit-text-fill-color: rgb(0, 0, 0);     
+ }
+
+ /* Estilo do Footer */
+footer {
+    background-color: rgb(136, 130, 130); /* Cor do footer */
+    color: rgb(0, 0, 0);
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
